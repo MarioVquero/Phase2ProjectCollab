@@ -1,7 +1,8 @@
 import React from "react";
 
-function Games()
+function Games({collection})
 {
+    
 
 }
 

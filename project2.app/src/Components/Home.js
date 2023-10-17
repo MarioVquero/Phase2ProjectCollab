@@ -22,7 +22,6 @@ function Home()
     }, [])
 
 
-
     return (
         <div className="Home">
             <Games collection={collection}/>
