@@ -7,7 +7,7 @@ function Collection({collection})
     const gameCollection = collection.map(game => (
         <Home game={game}/>
     ))
-
+ 
     return(
         <div>
             {gameCollection}
