@@ -4,7 +4,7 @@
       "id": 1,
       "title": "God Of War",
       "image": "https://upload.wikimedia.org/wikipedia/en/b/b5/God_of_War_%282005%29_cover.jpg",
-      "year-of-release": "2005",
+      "yearOfRelease": "2005",
       "rating": "9.8",
       "console": "Playstation 2",
       "review": "The platforming elements need to take hints from Sands of Time and the puzzles could do with a little more thought and a little less block pushing. Everything else is nearly perfect."
@@ -13,7 +13,7 @@
       "id": 2,
       "title": "God Of War 2",
       "image": "https://upload.wikimedia.org/wikipedia/en/2/25/God_of_War_II_cover.jpg",
-      "year-of-release": "2007",
+      "yearOfRelease": "2007",
       "rating": "9.7",
       "console": "Playstation 2",
       "review": "God of War II may in fact be the best action game ever made. It outdoes the original God of War in every way, even if only by a tiny bit as the first was so good to begin with. It's an evolutionary step rather than a revolutionary leap, but it has basically perfected the formula that the original set up. If you own a PlayStation 2 (or PS3) and don't mind excessive amounts of blood, you absolutely must play this game. If you don't own a PS2, find someone who does and sit yourself down in front of their TV for 12 or so hours as you'll otherwise be missing out on one of gaming's most intense and engaging experiences available."
@@ -22,7 +22,7 @@
       "id": 3,
       "title": "God Of War: Chains Of Olympus",
       "image": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/God_of_War_Chains_of_Olympus_NA_version_front_cover.jpg/220px-God_of_War_Chains_of_Olympus_NA_version_front_cover.jpg",
-      "year-of-release": "2008",
+      "yearOfRelease": "2008",
       "rating": "9.4",
       "console": "PSP",
       "review": "God of War: Chains of Olympus is a stellar achievement on the PSP. It plays perfectly into the franchise's storyline and offers up the same level of intense action as its console counterparts. It's also the best looking title on the system, without question. Engaging from start to finish, Chains of Olympus is a mandatory purchase for anyone who owns a PSP and doesn't mind getting a little blood on their hands."
@@ -31,7 +31,7 @@
       "id": 4,
       "title": "God Of War 3",
       "image": "https://upload.wikimedia.org/wikipedia/en/8/8b/God_of_War_III_cover_art.jpg",
-      "year-of-release": "2010",
+      "yearOfRelease": "2010",
       "rating": "9.3",
       "console": "Playstation 3",
       "review": "God of War III is a great end to Kratos' console trilogy. It's not perfect, with some uneven storytelling and progression here and there, but it's still a fantastic overall package. The combat is stellar once again, it's bloodier than ever, and it is at times the best looking game ever released. I still think God of War II is the best in the trilogy, but Sony Santa Monica did a great job closing up Kratos' journey for revenge."
@@ -40,7 +40,7 @@
       "id": 5,
       "title": "God Of War: Ghost Of Sparta",
       "image": "https://upload.wikimedia.org/wikipedia/en/2/26/GOW_Ghost_of_Sparta_boxart.jpg",
-      "year-of-release": "2010",
+      "yearOfRelease": "2010",
       "rating": "9.5",
       "console": "PSP",
       "review": "Unbelievably, the developers at Ready at Dawn managed to top what they did with Chains of Olympus, delivering a longer, deeper, and more graphically beautiful game than even they thought was originally possible. Ghost of Sparta is, without a doubt, one of the best games available for the PSP. Just when I thought I had Kratos figured out, I've been given insight into another piece of his past that makes his anger much more understandable. The path less traveled as far as characters and locations makes Ghost of Sparta a very significant chapter in Kratos' story. There's nothing hugely different about the gameplay, but there really didn't need to be. Combat works perfectly, and while I could have stood a bit more challenge in the puzzle department, that's basically the same as saying I could have used a bit more chocolate sauce on my totally awesome delicious dessert."
@@ -49,7 +49,7 @@
       "id": 6,
       "title": "God Of War: Origins",
       "image": "",
-      "year-of-release": "2011",
+      "yearOfRelease": "2011",
       "rating": "9.0",
       "console": "PSP",
       "review": "God of War Origins collects two of the best PSP games and gives them all the PS3 treatment -- HD visuals, 3D options, Trophies and DualShock controls. It also acts as a time lapse experiment for players to get a really good look at how a developer evolves from one game to another. If you haven't played these titles before – and even if you have – recommending God of War Origins is easy."
@@ -58,7 +58,7 @@
       "id": 7,
       "title": "God Of War: Ascension",
       "image": "https://upload.wikimedia.org/wikipedia/en/b/ba/God_of_War_Ascension.jpg",
-      "year-of-release": "2013",
+      "yearOfRelease": "2013",
       "rating": "7.8",
       "console": "Playstation 3",
       "review": "Ascension is an enjoyable game, but one that doesn’t quite live up to the pedigree of its predecessors. The story, which promised so much by revealing a more emotional side to Kratos, stumbles along and is so flimsy it’s almost incidental. The combat has been refined and is therefore as satisfying as ever, but the lack of any really memorable set-pieces – combined with its tiresome reliance on carbon copy battles against waves of exactly the same enemy – result in a game that is at times spectacular but all too often forgettable. Kratos fanatics will no doubt revel in the challenge it presents, especially the grueling Trials of Archimedes, but there’s no escaping the fact Ascension is the weakest in the series."
@@ -67,7 +67,7 @@
       "id": 8,
       "title": "God Of War 2018",
       "image": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/5358/5358600_sd.jpg;maxHeight=640;maxWidth=550",
-      "year-of-release": "2018",
+      "yearOfRelease": "2018",
       "rating": "10",
       "console": "Playstation 4",
       "review": "I expected great action from God of War, and it delivers that handily. But I didn’t expect it to be a thrilling journey in which every aspect of it complements the others to form what is nothing short of a masterpiece. It’s a game in which Kratos, a previously one-note character, becomes a complex father, warrior, and monster, embattled both on the field and within his own heart about how to treat his son; one in which the world opens up and shifts, offering rewards in both gameplay and knowledge of its lore that I treasured with each accomplishment. The obvious care that went into crafting its world, characters, and gameplay delivers by far the most stirring and memorable game in the series."
@@ -76,7 +76,7 @@
       "id": 9,
       "title": "God Of War Ragnarok",
       "image": "https://media.direct.playstation.com/is/image/sierialto/ps5-god-of-war-ragnarok-launch-edition-box-front",
-      "year-of-release": "2022",
+      "yearOfRelease": "2022",
       "rating": "10",
       "console": "Playstation 5",
       "review": "How do you follow up on one of the greatest video games of all time? Sony Santa Monica finds itself in a situation not dissimilar to when Francis Ford Coppola created the sequel to his mob movie masterpiece, The Godfather. Like part two of the Corleone story, God of War Ragnarok puts a fierce, younger member of the family directly under the microscope. In doing so it manages to reach the heights of its predecessor and, in some ways, even tower above it. The writing, performances, and music are each exceptional, bringing this expansive Norse tapestry to life – but even as it holds your heart in one hand with its elegantly told story it’s crunching bones in the other with fantastically ferocious combat. It all binds together to forge a monumental action epic that adds yet another impressive landmark to the video game landscape."
