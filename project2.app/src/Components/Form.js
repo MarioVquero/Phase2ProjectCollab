@@ -10,12 +10,17 @@ function Form({ onSubmit }) {
     review: "",
   });
 
+  //   Here we made a state for each input value using one state
+
   const onChangeNewGame = (event) => {
     setNewGame({ ...newGame, [event.target.name]: event.target.value });
   };
 
+  //   We are adding properties to newGame by using the splitter operator and getting the target name as a key and the targets value as a value
+
   const onSubmitNewGame = (event) => {
     event.preventDefault();
+    // we are preventing default on submission because we don't want the page to rerender
     onsubmit(newGame);
   };
 

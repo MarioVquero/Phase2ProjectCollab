@@ -15,6 +15,8 @@ function App() {
       .then((res) => res.json())
       .then((data) => setCollection(data));
   }, []);
+  // fetching the json file and setting the data of json into setCollection.
+  // Now our data is available is stored in collection
 
   const onsubmit = (newGame) => {
     fetch(URL, {
@@ -24,17 +26,20 @@ function App() {
         Accept: "application/json",
       },
       body: JSON.stringify(newGame),
+      // Here we are posting the newGame into our json file .
     })
       .then((response) => response.json())
-      .then(game > setCollection([...collection, game]));
+      .then((game) => setCollection([...collection, game]));
+    // we are getting the response back and setting game into the setCollection
   };
-
-  //passing down information to Collection and Form
+  //
 
   return (
     <div className="app-container">
       <Collection collection={collection} />
+      {/* passing down information to Collection*/}
       <Form onsubmit={onsubmit} />
+      {/* passing down the onSubmit function down to Form. */}
     </div>
   );
 }
